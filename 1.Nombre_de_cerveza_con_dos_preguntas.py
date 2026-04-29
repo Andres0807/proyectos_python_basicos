@@ -1,0 +1,1 @@
+print('La cerveza se llama ' + '"' + input("Ingresa tu raza de mascota favoita: ") + " " + input("Ingresa tu super heroe favorito:") + '"')
